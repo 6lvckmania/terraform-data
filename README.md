@@ -1,4 +1,4 @@
-# terraform-for-vb
+# terraform-data
 Terraform as CD tool for automation Virtualbox. SoftServe Crash Course hometask
 
 1) Configure Terraform
