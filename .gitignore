@@ -25,6 +25,8 @@ dist/
 /terraform.tfstate
 /terraform.tfstate.backup
 /terraform-provider-virtualbox
+/ubuntu-15.04.tar.xz
+/provider/testdata/
 /terraform-provider-virtualbox*
 .idea/
 .DS_Store
