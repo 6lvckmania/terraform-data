@@ -22,7 +22,9 @@ dist/
 /.terraform
 *.sublime-workspace
 *.bak
+*.tf.bak
 *.hcl
+*.lock.hcl
 *.log
 *.tfstate*
 .idea/
