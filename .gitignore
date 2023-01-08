@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+
+# VirtualBox
+virtualbox.box
+
+.vendor
+vendor/
+dist/
+*.sublime-workspace
+*.log
+*.tfstate*
+/examples/terraform.tfstate
+/examples/terraform.tfstate.backup
+/examples/terraform-provider-virtualbox
+/examples/ubuntu-15.04.tar.xz
+/examples/*
+/provider/testdata/
+/terraform-provider-virtualbox*
+.idea/
+.DS_Store
+.python-version
+/examples/.python-version
+coverage.txt
+output/
+build.sh
